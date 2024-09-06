@@ -1,6 +1,6 @@
 ## Hola soy Gaby Hernanez 👋
 
-<!--
+
 Soy un desarrollador apasionado por los desafíos y el autoaprendizaje. Me entusiasma el desarrollo de habilidades tecnológicas y la creación de soluciones innovadoras. Trabajar en esta profesión requiere un crecimiento constante y continuo aprendizaje, algo que abrazo con entusiasmo. Además, tengo facilidad para el trabajo colaborativo y me adapto rápidamente a diferentes entornos y equipos.
 JavaScript y Manipulación del DOM
 Conocimiento en JavaScript, ES6+ y manipulación del DOM.
