@@ -8,7 +8,16 @@
 - :bocadillo_de_diálogo: Ask me about: Anything related to front-end development, JavaScript, or career advice in tech.
 - :buzón: How to reach me: [LinkedIn](https://www.linkedin.com/in/gabyhhernandezdesarrolador/), [Email](gaby7922@gmail.com)
 ### :gráfico_con_tendencia_ascendente: GitHub Stats:
-![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaby&show_icons=true&theme=radical)
+![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyh7922&show_icons=true&theme=radical&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabyh7922&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyh7922&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyh7922&layout=compact&theme=radical)
+
+
+
 ### :trofeo: Achievements:
  ![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) ![Blue Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 ### :cohete: Projects:
