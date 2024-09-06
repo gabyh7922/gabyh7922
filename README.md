@@ -1,6 +1,6 @@
 
-# :hola: Hello, I'm Gaby Hernanez!
-### :ordenador: About Me:
+# Hello, I'm Gaby Hernanez!
+### 💻 About Me:
 
 - 🌱 I’m currently learning: JavaScript, React, Node.js, and data analysis.
 - 👩‍💻 I’m working on: [DEV015 Projects](#) and personal web development projects.
