@@ -1,12 +1,13 @@
 
 # :hola: Hello, I'm Gaby Hernanez!
 ### :ordenador: About Me:
-- :plántula: I’m currently learning: JavaScript, React, Node.js, and data analysis.
-- :tecnóloga: I’m working on: [DEV015 Projects](#) and personal web development projects.
-- :birrete: Background: Passionate about technology, with a focus on web development and data visualization.
-- :telescopio: Looking to collaborate on: Open source projects and community-driven development.
-- :bocadillo_de_diálogo: Ask me about: Anything related to front-end development, JavaScript, or career advice in tech.
-- :buzón: How to reach me: [LinkedIn](https://www.linkedin.com/in/gabyhhernandezdesarrolador/), [Email](gaby7922@gmail.com)
+
+- 🌱 I’m currently learning: JavaScript, React, Node.js, and data analysis.
+- 👩‍💻 I’m working on: [DEV015 Projects](#) and personal web development projects.
+- 🎓 Passionate about technology, with a focus on web development and data visualization.
+- 🔭 Looking to collaborate on: Open source projects and community-driven development.
+- 💬 Ask me about: Anything related to front-end development, JavaScript, or career advice in tech.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabyhhernandezdesarrolador/), [Email](gaby7922@gmail.com)
 ### :gráfico_con_tendencia_ascendente: GitHub Stats:
 ![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyh7922&show_icons=true&theme=radical&count_private=true)
 
