@@ -19,7 +19,7 @@
 
 
 ### :trofeo: Achievements:
- ![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) ![Blue Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+  ![Blue Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 ### :cohete: Projects:
 Here are some of my notable projects:
 - [DEV015-text-analyzer](#): A JavaScript tool to analyze and process text data.
