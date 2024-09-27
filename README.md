@@ -29,7 +29,7 @@ Here are some of my notable projects:
 - [Laboratoria](#): Graduate from the **DEV015** program, specializing in web development and data visualization.
 - Previous roles in customer service, translating, and technical support.
 ### :globo_terráqueo_con_meridianos: Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/barbara-rolon-4rg/)](https://www.linkedin.com/in/gabyhhernandezdesarrolador/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabyhhernandezdesarrolador/)])
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](gaby7922@gmail.com)
 pe.linkedin.compe.linkedin.com
 
@@ -40,7 +40,7 @@ pe.linkedin.compe.linkedin.com
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## Tools I Use:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
