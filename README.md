@@ -11,20 +11,25 @@
 ### :gráfico_con_tendencia_ascendente: GitHub Stats:
 ![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyh7922&show_icons=true&theme=radical&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabyh7922&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabyh7922&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabyh7922&theme=darkhub&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 ### :trofeo: Achievements:
   ![Blue Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+ ![Blue Badge](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+  ![Blue Badge]( https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+
 ### :cohete: Projects:
 Here are some of my notable projects:
 - [DEV015-text-analyzer](#): A JavaScript tool to analyze and process text data.
 - [DEV015-dataverse](#): A platform for managing and visualizing data sets.
-- [DEV015-trivia](#): A fun trivia game developed using HTML and JavaScript.
+- [DEV015-dataverse-chat](#): A fun dataverse game developed using HTML and JavaScript.
+- [DEV015-guess-the-number](#): A python guess-the-number.
+- [DEV015-fleet-management-api](#): a python fleet-management-api.
+
+
 ### :maletín: Experience:
 - [Laboratoria](#): Graduate from the **DEV015** program, specializing in web development and data visualization.
 - Previous roles in customer service, translating, and technical support.
