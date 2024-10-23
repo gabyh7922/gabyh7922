@@ -1,5 +1,5 @@
 
-# Hello, I'm Gaby Hernanez!
+# Hello, I'm Gaby Hernandez!
 ### 💻 About Me:
 
 - 🌱 I’m currently learning: JavaScript, React, Node.js, and data analysis.
@@ -7,48 +7,25 @@
 - 🎓 Passionate about technology, with a focus on web development and data visualization.
 - 🔭 Looking to collaborate on: Open source projects and community-driven development.
 - 💬 Ask me about: Anything related to front-end development, JavaScript, or career advice in tech.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabyhhernandezdesarrolador/), [Email](gaby7922@gmail.com)
-### :gráfico_con_tendencia_ascendente: GitHub Stats:
-![Gaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabyh7922&show_icons=true&theme=radical&count_private=true)
+- 📫 How to reach me: [Email](gaby7922@gmail.com)
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gaby79224087) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabyhhernandezdesarrolador/) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gabyh7922&theme=darkhub&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gaby7922&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gaby7922&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaby7922&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gaby7922&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### :trofeo: Achievements:
-  ![Blue Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
- ![Blue Badge](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
-  ![Blue Badge]( https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+---
+[![](https://visitcount.itsvg.in/api?id=gaby7922&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### :cohete: Projects:
-Here are some of my notable projects:
-- [DEV015-text-analyzer](#): A JavaScript tool to analyze and process text data.
-- [DEV015-dataverse](#): A platform for managing and visualizing data sets.
-- [DEV015-dataverse-chat](#): A fun dataverse game developed using HTML and JavaScript.
-- [DEV015-guess-the-number](#): A python guess-the-number.
-- [DEV015-fleet-management-api](#): a python fleet-management-api.
-
-
-### :maletín: Experience:
-- [Laboratoria](#): Graduate from the **DEV015** program, specializing in web development and data visualization.
-- Previous roles in customer service, translating, and technical support.
-### :globo_terráqueo_con_meridianos: Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabyhhernandezdesarrolador/)])
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](gaby7922@gmail.com)
-pe.linkedin.compe.linkedin.com
-
-## Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-
-## Tools I Use:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
